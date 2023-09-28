@@ -1,6 +1,6 @@
 Happy Coding!
 
-Summary of 1 liner solutions for each: https://docs.google.com/spreadsheets/d/1GlK73Zm-7HoX_4bygJmJA0yt1mghPZwVecV_iu2Gtzc/edit#gid=0
+1 liner solution summary for each: https://docs.google.com/spreadsheets/d/1GlK73Zm-7HoX_4bygJmJA0yt1mghPZwVecV_iu2Gtzc/edit#gid=0
 
 # Arrays
 - Two Sum
